@@ -1,6 +1,6 @@
 // Kad promijeniš bilo koju datoteku aplikacije, povećaj broj verzije
 // kako bi se nova verzija preuzela na iPhoneu.
-const CACHE = 'ljudi-v2';
+const CACHE = 'ljudi-v4';
 const ASSETS = [
   './',
   './index.html',
